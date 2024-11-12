@@ -11,3 +11,9 @@ public class App {
 // # buonasera JVM, che ne direste di eseguire il mio file Car.class?
     // @ la traduco dal bytecode ad un linguaggio macchina comprensibile dalla macchina che la esegue, e poi la eseguo
     // Aggiungo un commento qualsiasi
+
+    // { path assoluti
+    // $ C:\Users\Teaching\Classes\bept4\java-hello-3\java-hello-4\src\App.java
+    
+    // [ path relativo
+    // ~ ./images/web.jpg
